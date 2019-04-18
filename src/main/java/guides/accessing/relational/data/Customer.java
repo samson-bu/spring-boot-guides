@@ -1,4 +1,4 @@
-package guides.accessing.retional.data;
+package guides.accessing.relational.data;
 
 public class Customer {
     private long id;
